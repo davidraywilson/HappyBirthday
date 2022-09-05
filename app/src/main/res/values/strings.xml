@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="happy_birthday_to">Happy Birthday, Macee!</string>
+    <string name="happy_birthday_from">From Dad!</string>
+    <string name="open_present">Open Present</string>
+    <string name="open_present_btn">Open Gift</string>
+    <string name="gift_text" />
+</resources>
